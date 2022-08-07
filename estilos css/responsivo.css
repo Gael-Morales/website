@@ -1,4 +1,16 @@
 
-@media screen and (max-width) {
-    
+@media screen and (max-width: 806px) {
+    #encabezado {
+    align-items: center;
+    padding-left: 20px;
+    justify-content: space-around;
+    padding: 30px;
+    text-align: center;
+    }
+}
+ 
+@media screen and (max-width: 806px) {
+    .imagen {
+        width: 221px;
+    }
 }
